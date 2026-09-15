@@ -1,6 +1,6 @@
 ## 📊 PROJETO APLICADO II - CURSO CIÊNCIA DE DADOS - ANO 2025.2 - 3º SEMESTRE - TURMA 201825166.000.03A 
 
-### PROJETO: A DEFINIR
+### PROJETO:  Premier League 2024/25
 
 ### 👥 Grupo - Projeto Aplicado 06
 
